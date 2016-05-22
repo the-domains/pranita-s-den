@@ -1,0 +1,28 @@
+name: "Pranita's den"
+favicon: null
+layout_spectrum: 0.05908513371832669
+typography_spectrum: 0.5236029101070017
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3455472632776946
+  lightness: 0.14512074831873178
+  saturation: 0.4479094857815653
+  rhythmicContrast: 0.7940140701830387
+purpose: []
